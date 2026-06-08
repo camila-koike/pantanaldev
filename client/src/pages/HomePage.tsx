@@ -18,7 +18,7 @@ export default function HomePage() {
         <div className="relative z-10 container mx-auto px-4 text-white text-center md:text-left">
           <div className="max-w-2xl">
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              Pantanal e o Desenvolvimento Regional
+              Pantanal e o Desenvolvimento Regional TESTE CI
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-100 leading-relaxed">
               Monitoramento integrado de queimadas, saúde pública e desenvolvimento sustentável
